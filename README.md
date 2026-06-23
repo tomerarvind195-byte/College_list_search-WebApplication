@@ -90,6 +90,12 @@ CollegeFind/
 │   └── server.js
 └── README.md
 
+📸 Pages
+Home
+- College Detail
+- Compare Colleges
+- College Predictor
+
 🎯 Future Improvements
 - User Authentication
 - Save Favourite Colleges
