@@ -89,3 +89,10 @@ CollegeFind/
 │   ├── controllers/
 │   └── server.js
 └── README.md
+
+
+
+
+📌 Project Objective
+
+The goal of CollegeFind is to simplify the college selection process by providing students with an easy-to-use platform where they can search, compare, and evaluate colleges based on important factors like fees, ratings, placements, and location.
