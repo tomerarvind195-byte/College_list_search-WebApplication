@@ -69,3 +69,23 @@ Authentication
 - JWT Authentication
 
 ## 📁 Project Structure
+
+CollegeFind/
+│
+├── index.html              # Home Page
+├── college.html            # College Detail Page
+├── compare.html            # Compare Colleges
+├── predictor.html          # College Predictor
+├── css/
+│   └── style.css
+├── js/
+│   ├── app.js
+│   ├── search.js
+│   ├── filter.js
+│   └── compare.js
+├── backend/
+│   ├── routes/
+│   ├── models/
+│   ├── controllers/
+│   └── server.js
+└── README.md
