@@ -45,11 +45,11 @@
 ## ✨ Features
 
 ### 🏠 Home Page
-- Hero section with prominent search bar
-- Popular college categories section
-- Compare Colleges quick access
-- College Predictor section
-- Fully responsive navigation and footer
+- Hero section with prominent search bar.
+- Popular college categories section.
+- Compare Colleges quick access.
+- College Predictor section.
+- Fully responsive navigation and footer.
 
 ### 🔍 College Listing & Search
 - Search colleges by **name** or **course**
