@@ -81,9 +81,9 @@
 |-------|-----------|
 | Frontend | HTML5, CSS3, JavaScript (ES6) |
 | Backend | Python |
-| Planned Backend | Node.js, Express.js |
-| Planned Database | MongoDB |
-| Planned Auth | JWT Authentication |
+| Planned Backend | Python, Django REST Framework |
+| Planned Database | MySQL |
+| Planned Auth | Django Authentication |
 | Deployment | GitHub Pages / Netlify _(add your link)_ |
 | Version Control | Git & GitHub |
 
@@ -171,15 +171,15 @@ python -m http.server 8000
 
 ## 🔮 Future Improvements
 
-- [ ] **User Authentication** — Login/Signup with JWT
+- [ ] **User Authentication** — Login/Signup with Django Auth
 - [ ] **Save Favourite Colleges** — Bookmark colleges for later
-- [ ] **Real Database Integration** — MongoDB with live college data
+- [ ] **Real Database Integration** — MySQL with live college data via Django ORM
 - [ ] **AI-based College Recommendation** — ML model based on marks, interests, budget
 - [ ] **Placement Analytics** — Average salary, top recruiters per college
 - [ ] **Admission Alerts** — Notify users about deadlines and cutoffs
 - [ ] **Discussion Forum** — Q&A section for students
-- [ ] **Backend API** — Node.js + Express.js REST API
-- [ ] **Mobile App** — React Native version
+- [ ] **Backend API** — Django REST Framework (DRF) API
+- [ ] **Mobile App** — Progressive Web App (PWA) version
 
 ---
 
