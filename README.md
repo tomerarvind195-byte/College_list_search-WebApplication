@@ -87,7 +87,7 @@
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure Details
 
 ```
 College_list_search-WebApplication/
