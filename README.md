@@ -23,7 +23,8 @@
 
 | Home Page | College Listing | Compare Colleges |
 |-----------|----------------|-----------------|
-| ![Home](screenshots/home.png) | ![Listing](screenshots/listing.png) | ![Compare](screenshots/compare.png) |
+| ![Home](<img width="1763" height="2588" alt="image" src="https://github.com/user-attachments/assets/db2dfade-16f4-4ed0-b4d9-36b343da11d8" />
+) | ![Listing](screenshots/listing.png) | ![Compare](screenshots/compare.png) |
 
 ---
 
