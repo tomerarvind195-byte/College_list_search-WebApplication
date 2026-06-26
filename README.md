@@ -19,8 +19,6 @@
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 | Home Page | College Listing | Compare Colleges |
 | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/db2dfade-16f4-4ed0-b4d9-36b343da11d8" width="100%" alt="Home Page" /> | <img src="https://github.com/user-attachments/assets/150a6fd1-f725-4650-b41b-8bb93af6ab27" width="100%" alt="College Listing" /> | <img src="https://github.com/user-attachments/assets/f018a78c-4761-4ebc-949e-c2e228c4413b" width="100%" alt="Compare Colleges" /> |
