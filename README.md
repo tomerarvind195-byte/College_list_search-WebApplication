@@ -156,7 +156,7 @@ python -m http.server 8000
 
 ---
 
-## 🗺️ Pages Overview
+## 🗺️ Pages Overview only frentand 
 
 | Page | File | Description |
 |------|------|-------------|
