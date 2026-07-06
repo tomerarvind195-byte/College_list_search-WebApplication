@@ -206,7 +206,7 @@ The goal of CollegeFind is to simplify the college selection process by providin
 - 💻 [GitHub](https://github.com/tomerarvind195-byte)
 - 📧 tomerarvind195@gmail.com
 - 📧 arvind.it.24023@recb.ac.in
-- 📱 
+- 📱 8057374246
 
 ---
 
