@@ -82,7 +82,7 @@
 | Planned Backend | Python, Django REST Framework |
 | Planned Database | MySQL |
 | Planned Auth | Django Authentication |
-| Deployment | GitHub Pages / Netlify _(add your link)_ |
+| Deployment | GitHub Pages / Netlify  |
 | Version Control | Git & GitHub |
 
 ---
