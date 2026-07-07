@@ -52,7 +52,8 @@
 ### 🔍 College Listing & Search
 - Search colleges by **name** or **course**
 - Filter by **Stream**, **Annual Fees**, **Location**, **Rating**, **College Type**
-- Sorting options (by rating, fees, name)
+- Sorting options (by rating,fees, name)
+- Search college according to your rank 
 - Pagination for smooth browsing
 - Responsive card layout showing:
   - College Name & Location
