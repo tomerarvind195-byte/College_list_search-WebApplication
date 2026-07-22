@@ -62,7 +62,7 @@
   - Save · Compare · View Details buttons
 
 ### 🎯 College Predictor
-- Student enters **Exam Name** (JEE, NEET, JEECUP, etc.) and **Rank**.
+- Student enters **Exam Name** (JEE, NEET, JEECUP  etc.) and **Rank**.
 - System recommends best-fit colleges based on rank cutoffs.
 - Helps students make data-driven admission decisions.
 
